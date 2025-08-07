@@ -1,0 +1,5 @@
+gerber
+*.bck
+*.bak
+*.000
+*backups
