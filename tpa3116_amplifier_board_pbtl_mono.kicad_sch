@@ -3006,7 +3006,7 @@
     (property "Reference" "C3" (at 58.42 63.5 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1u" (at 58.42 66.04 90)
+    (property "Value" "--" (at 58.42 66.04 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 62.23 68.8848 0)

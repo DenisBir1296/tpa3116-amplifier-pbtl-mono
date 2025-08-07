@@ -1631,7 +1631,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e51b420a-2829-40d2-ac65-a131c8573739)
     )
-    (fp_text value "1u" (at 0 1.68) (layer "F.Fab")
+    (fp_text value "--" (at 0 1.68) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cc374a7a-667d-4c40-980d-61e837362ccf)
     )
